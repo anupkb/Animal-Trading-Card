@@ -1,0 +1,25 @@
+.image{
+width: 300px;
+}
+
+.interesting-fact{
+font-style: italic;
+}
+
+.labels{
+font-weight: bold;
+}
+
+.border1{
+border-style: outset;
+    padding: 10px;
+    width: 300px;
+    background-color: lightgoldenrodyellow;
+}
+
+.border2{
+border-style: ridge;
+    padding: 8px;
+    background-color: antiquewhite;
+}
+
